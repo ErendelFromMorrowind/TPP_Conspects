@@ -18,3 +18,5 @@ g.FillEllipce(b, 100, 100, 200, 200);
 
 У объектов класса Graphics много методов. Их можно почитать по подсказкам и осознать. Самые важные:
   {DrawLine(); DrawRectangle(); FillREctangle(); DrawEllipce(x, y, width, height); FillEllipce(x, y, width, height);}
+
+За нажатие мыши отвечает событие MouseDown();
